@@ -1,6 +1,3 @@
-<img align="left" width="240" src="https://thumbs.dreamstime.com/b/hello-world-modern-calligraphy-text-handwritten-brush-black-ink-isolated-white-background-banner-design-new-bl-114233259.jpg"> <samp> <br>
-### Hey, this is information about me!
-✏ I'm working on [Phoenix Bot]. <br><br><br><br><br>
 ---
 ### **Stats**
   
